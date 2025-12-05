@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm Jenda — a Junior Developer passionate about building things for the web and desktop.
 
-<!--
-**SemerakJan/SemerakJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Exploring the world of **Computer Science**
+- 💻 Working mainly with **C#**, **WinForms**, and **web technologies**
+- 🌱 Currently improving my skills in **frontend** (HTML/CSS) and **backend** development
+- 🧠 I love understanding how things work under the hood and turning ideas into real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages & Tools:**  
+- C# · .NET  
+- WinForms  
+- HTML · CSS  
+- Git · GitHub  
+- VS Code · Visual Studio  
+
+---
+
+## 📌 What I'm Learning
+- Writing cleaner and more maintainable C# code  
+- Modern web development fundamentals  
+- Problem-solving and CS concepts that make me a better dev every day  
+
+---
+
+## 📫 Get in Touch
+Feel free to connect or check out my work here on GitHub — always open to feedback, ideas, and collaboration!
